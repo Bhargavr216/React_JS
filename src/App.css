@@ -36,3 +36,40 @@
     transform: rotate(360deg);
   }
 }
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 2rem;
+  color: #333;
+}
+
+.cat-info {
+  margin: 20px 0;
+  padding: 15px;
+  background-color: #bb2c2c;
+  border-radius: 10px;
+}
+.fish-info {
+  margin: 20px 0;
+  padding: 15px;
+  background-color: #3449b0;
+  border-radius: 10px;
+}
+
+
+button {
+  padding: 10px 20px;
+  font-size: 1rem;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
